@@ -31,12 +31,12 @@ var greenIcon = L.icon({
     popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
 });
 
-L.marker([43.662069, -79.394250], {icon: greenIcon}).addTo(mymap)
-	.bindPopup("<b>DCSIL cool shool</b><br />Where founders are made.").openPopup();
 
-L.marker([43.64, -79.3832], {icon: greenIcon}).addTo(mymap)
+L.marker([43.65, -79.3832], {icon: greenIcon}).addTo(mymap)
 	.bindPopup("<b>Green School</b><br />Make the world a better place!").openPopup();
 
+L.marker([43.662069, -79.394250], {icon: greenIcon}).addTo(mymap)
+	.bindPopup("<b>DCSIL</b><br />Where founders are made.").openPopup();
 
 L.circle([43.67, -79.38], 500, {
 	color: 'red',
