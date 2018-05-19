@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-border-radius: 50px;
   border-radius: 50px;
   float:center;
-  margin:5px;
+  margin:auto;
 }
 .count
 {
@@ -158,7 +158,7 @@ h1, h2, h3, h4, h5, h6 {
    -moz-border-radius:    10px;
    -webkit-border-radius: 10px;
    border-radius:         10px;
-  float:left;
+  float:center;
   margin:20px;
 }
 #talkbubble:before {
