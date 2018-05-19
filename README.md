@@ -1,6 +1,10 @@
 # YardShare :herb:
 
-A web application that eliminates food deserts by connecting the communities through school gardening activties. This project is a part of DCSIL Green Hacks 2018
+A web application that eliminates [food deserts](martinprosperity.org/food-deserts-and-priority-neighbourhoods-in-toronto/) by connecting the communities through school gardening activties. This project is a part of DCSIL Green Hacks 2018
+
+## Full Demo Slides
+
+Can be found [here](https://docs.google.com/presentation/d/1Yg3kABCb-llMvArdnTsY3qqsMNTqE7KBbi129uk960Y/edit?usp=sharing).
 
 ## Getting Started
 
