@@ -44,6 +44,13 @@ L.circle([43.67, -79.38], 500, {
 	fillOpacity: 0.5
 }).addTo(mymap).bindPopup("Food desert area.");
 
+L.circle([43.7158, -79.3331], 500, {
+	color: 'red',
+	fillColor: '#f03',
+	fillOpacity: 0.5
+}).addTo(mymap).bindPopup("Food desert area.");
+
+
 
 // var popup = L.popup();
 
